@@ -82,12 +82,28 @@ Messages are dynamically displayed within the dashboard, connecting insights dir
 
 ## 🛠 Tools & Skills Used
 
-- Tableau Public for building engagement-focused dashboards and reports
+- Tableau Public for interactive dashboards and visual storytelling
 
-- RFM Framework to drive customer segmentation and retention strategy
+- RFM Analysis to segment users based on engagement behavior
 
-- Behavioral Analysis to understand user activity and engagement patterns
+- Customer Analytics to identify high-value, loyal, and at-risk segments
 
-- KPI Design to monitor segment performance and engagement health
+- Data Aggregation & Metric Design for recency, frequency, and engagement scoring
 
-- Personalization Strategy to align communication with customer behavior
+- KPI & Personalization Design using treemaps, filters, and dynamic messaging
+
+---
+
+## 💼 Business Value
+
+- 📍 Identifies high-value users and early churn signals
+
+- 📨 Enables targeted, personalized communication at scale
+
+- 🔁 Improves user retention and overall platform engagement
+
+- 🎶 Aligns content and messaging strategies with user behavior
+
+- ⭐ Strengthens loyalty by nurturing high-value and promising segments
+
+---
