@@ -60,3 +60,19 @@ Each customer segment is paired with tailored communication strategies to:
 - Encourage promising users to deepen engagement
 
 Messages are dynamically displayed within the dashboard, connecting insights directly to action.
+
+---
+
+## 📈 Dashboard Highlights
+
+- 📌 KPI cards showing total users and average visit frequency
+
+- 🧩 Segmented treemap for behavior-based user distribution
+
+- 🔍 Interactive filters for gender and segment type
+
+- ✉️ Dynamic message table mapped to each customer group
+
+- 🎶 Overview of average listening time across users
+
+- 
