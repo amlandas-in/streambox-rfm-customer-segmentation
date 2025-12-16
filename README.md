@@ -76,3 +76,18 @@ Messages are dynamically displayed within the dashboard, connecting insights dir
 - 🎶 Overview of average listening time across users
 
 - 
+
+
+---
+
+## 🛠 Tools & Skills Used
+
+- Tableau Public for building engagement-focused dashboards and reports
+
+- RFM Framework to drive customer segmentation and retention strategy
+
+- Behavioral Analysis to understand user activity and engagement patterns
+
+- KPI Design to monitor segment performance and engagement health
+
+- Personalization Strategy to align communication with customer behavior
