@@ -10,8 +10,8 @@ The dashboard helps marketing and product teams visualize engagement patterns, u
 
 ---
 
-## 🧠 RFM Segmentation Approach
-### 📊 Metrics Used
+## 📊 RFM Segmentation Approach
+### 🔢 Metrics Used
 
 - Recency – How recently a user interacted with the platform
 
