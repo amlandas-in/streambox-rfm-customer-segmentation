@@ -44,3 +44,19 @@ Each segment is analyzed using:
 - Average listening time
 
 - Total engagement time
+
+---
+
+## ✉️ Personalized Messaging Strategy
+
+Each customer segment is paired with tailored communication strategies to:
+
+- Welcome and activate new users
+
+- Re-engage inactive listeners
+
+- Reward loyal and high-value users
+
+- Encourage promising users to deepen engagement
+
+Messages are dynamically displayed within the dashboard, connecting insights directly to action.
