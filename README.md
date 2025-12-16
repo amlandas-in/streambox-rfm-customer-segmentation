@@ -4,6 +4,6 @@ A Tableau dashboard that applies RFM analysis to segment music streaming users a
 
 ## 🎯 Project Overview
 
-Understanding user behavior is essential for building long-term engagement on digital platforms. This project analyzes interaction data from StreamBox, a fictional music streaming service, using RFM (Recency, Frequency, Monetary) analysis to uncover meaningful customer segments.
+Understanding user behavior is critical for driving engagement and retention in music streaming platforms. This project analyzes user interaction data using RFM (Recency, Frequency, Monetary) analysis to identify meaningful customer segments and support targeted communication strategies.
 
-The dashboard empowers marketing and product teams to quickly identify user behavior patterns and deliver targeted outreach that improves retention, loyalty, and platform stickiness.
+The dashboard helps marketing and product teams visualize engagement patterns, uncover churn risks, and personalize outreach with precision.
