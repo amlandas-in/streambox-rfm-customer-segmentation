@@ -1,0 +1,301 @@
+CustomerID,Evalution Date,Max Visit Date,Count of Visits,Listen_Duration (mins),Recency,Recency_Scale,Frequency_Scale,Monetory_Scale,RFM Segment,Preference_Music_Type,City,Marital Status,Segments,Marital StatusSegment
+SP1254,9/1/2024,8/28/2024,7,639,4,2,1,1,211,Upbeats,Kochi,Bachelor,New Users,211Bachelor
+SP1456,9/1/2024,8/29/2024,16,1237,3,2,1,1,211,Upbeats,Kochi,Married,New Users,211Married
+SP1658,9/1/2024,8/30/2024,62,5742.25,2,2,3,3,233,Upbeats,Delhi,Bachelor,Champions,233Bachelor
+SP1860,9/1/2024,8/28/2024,12,1263,4,2,1,1,211,Upbeats,Mumbai,Bachelor,New Users,211Bachelor
+SP2062,9/1/2024,8/28/2024,67,4972,4,2,3,3,233,Melodic Bliss ,Bengaluru,Bachelor,Champions,233Bachelor
+SP2264,9/1/2024,8/29/2024,36,2888,3,2,2,2,222,Upbeats,Mumbai,Married,Promising,222Married
+SP2466,9/1/2024,8/22/2024,8,693,10,1,1,1,111,Upbeats,Delhi,Married,Hibernating,111Married
+SP2668,9/1/2024,8/29/2024,55,4859,3,2,2,3,223,Romantic Tunes,Kolkata,Married,Loyal Customers,223Married
+SP2870,9/1/2024,8/31/2024,74,6539,1,3,3,3,333,Romantic Tunes,Mumbai,Married,Champions,333Married
+SP3072,9/1/2024,8/29/2024,39,3339,3,2,2,2,222,Romantic Tunes,Chennai,Bachelor,Promising,222Bachelor
+SP3274,9/1/2024,8/30/2024,19,1364,2,2,2,1,221,Romantic Tunes,Hyderabad,Bachelor,Promising,221Bachelor
+SP3476,9/1/2024,8/28/2024,19,1188,4,2,2,1,221,Upbeats,Mumbai,Bachelor,Promising,221Bachelor
+SP3678,9/1/2024,8/30/2024,15,1599,2,2,1,2,212,Melodic Bliss ,Ahmedabad,Bachelor,Promising,212Bachelor
+SP3880,9/1/2024,8/29/2024,50,4052.25,3,2,2,2,222,Melodic Bliss ,Pune,Bachelor,Promising,222Bachelor
+SP4082,9/1/2024,8/30/2024,33,2369,2,2,2,2,222,Upbeats,Delhi,Married,Promising,222Married
+SP4284,9/1/2024,8/30/2024,46,4148,2,2,2,2,222,Romantic Tunes,Jaipur,Bachelor,Promising,222Bachelor
+SP4486,9/1/2024,8/30/2024,28,2395,2,2,2,2,222,Romantic Tunes,Lucknow,Bachelor,Promising,222Bachelor
+SP4688,9/1/2024,8/30/2024,47,3983,2,2,2,2,222,Upbeats,Lucknow,Bachelor,Promising,222Bachelor
+SP4890,9/1/2024,8/30/2024,75,6008,2,2,3,3,233,Melodic Bliss ,Kolkata,Bachelor,Champions,233Bachelor
+SP5092,9/1/2024,8/30/2024,49,3691,2,2,2,2,222,Melodic Bliss ,Pune,Married,Promising,222Married
+SP5294,9/1/2024,8/19/2024,7,490,13,1,1,1,111,Upbeats,Surat,Bachelor,Hibernating,111Bachelor
+SP5496,9/1/2024,8/30/2024,43,3679,2,2,2,2,222,Romantic Tunes,Mumbai,Married,Promising,222Married
+SP5698,9/1/2024,8/28/2024,15,1046,4,2,1,1,211,Melodic Bliss ,Varanasi,Married,New Users,211Married
+SP5900,9/1/2024,8/30/2024,5,511,2,2,1,1,211,Upbeats,Jaipur,Bachelor,New Users,211Bachelor
+SP6102,9/1/2024,8/28/2024,20,1505,4,2,2,2,222,Romantic Tunes,Lucknow,Married,Promising,222Married
+SP6304,9/1/2024,8/30/2024,52,4929,2,2,2,3,223,Upbeats,Mumbai,Bachelor,Loyal Customers,223Bachelor
+SP6506,9/1/2024,8/30/2024,72,5821.5,2,2,3,3,233,Melodic Bliss ,Coimbatore,Married,Champions,233Married
+SP6708,9/1/2024,8/29/2024,24,2376,3,2,2,2,222,Romantic Tunes,Jaipur,Married,Promising,222Married
+SP6910,9/1/2024,8/30/2024,72,6253,2,2,3,3,233,Romantic Tunes,Mumbai,Bachelor,Champions,233Bachelor
+SP7112,9/1/2024,8/28/2024,27,2075,4,2,2,2,222,Romantic Tunes,Chennai,Bachelor,Promising,222Bachelor
+SP7314,9/1/2024,8/30/2024,35,2332,2,2,2,2,222,Romantic Tunes,Hyderabad,Bachelor,Promising,222Bachelor
+SP7516,9/1/2024,8/30/2024,62,5135.75,2,2,3,3,233,Romantic Tunes,Pune,Married,Champions,233Married
+SP7718,9/1/2024,8/30/2024,18,1361,2,2,2,1,221,Romantic Tunes,Lucknow,Bachelor,Promising,221Bachelor
+SP7920,9/1/2024,8/30/2024,65,4930,2,2,3,3,233,Upbeats,Delhi,Bachelor,Champions,233Bachelor
+SP8122,9/1/2024,8/30/2024,30,2555,2,2,2,2,222,Romantic Tunes,Mumbai,Married,Promising,222Married
+SP8324,9/1/2024,8/30/2024,24,1862,2,2,2,2,222,Romantic Tunes,Surat,Bachelor,Promising,222Bachelor
+SP8526,9/1/2024,8/30/2024,69,5549.5,2,2,3,3,233,Romantic Tunes,Mumbai,Bachelor,Champions,233Bachelor
+SP8728,9/1/2024,8/26/2024,13,949,6,1,1,1,111,Upbeats,Mumbai,Married,Hibernating,111Married
+SP8930,9/1/2024,8/30/2024,42,3788,2,2,2,2,222,Romantic Tunes,Chennai,Bachelor,Promising,222Bachelor
+SP9132,9/1/2024,8/30/2024,62,5725,2,2,3,3,233,Romantic Tunes,Surat,Married,Champions,233Married
+SP9334,9/1/2024,8/27/2024,12,923,5,1,1,1,111,Upbeats,Lucknow,Bachelor,Hibernating,111Bachelor
+SP9536,9/1/2024,8/27/2024,17,1651,5,1,1,2,112,Romantic Tunes,Coimbatore,Married,Hibernating,112Married
+SP9738,9/1/2024,8/30/2024,72,6289.75,2,2,3,3,233,Romantic Tunes,Pune,Married,Champions,233Married
+SP9940,9/1/2024,8/30/2024,65,4991.5,2,2,3,3,233,Romantic Tunes,Varanasi,Married,Champions,233Married
+SP10142,9/1/2024,8/30/2024,32,2490,2,2,2,2,222,Melodic Bliss ,Chennai,Married,Promising,222Married
+SP10344,9/1/2024,8/30/2024,68,5355.75,2,2,3,3,233,Upbeats,Lucknow,Bachelor,Champions,233Bachelor
+SP10546,9/1/2024,8/30/2024,65,5820,2,2,3,3,233,Melodic Bliss ,Mumbai,Bachelor,Champions,233Bachelor
+SP10748,9/1/2024,8/30/2024,57,5256,2,2,2,3,223,Romantic Tunes,Bengaluru,Bachelor,Loyal Customers,223Bachelor
+SP10950,9/1/2024,8/30/2024,33,3229,2,2,2,2,222,Melodic Bliss ,Ahmedabad,Married,Promising,222Married
+SP11152,9/1/2024,8/28/2024,14,1320,4,2,1,1,211,Upbeats,Pune,Bachelor,New Users,211Bachelor
+SP11354,9/1/2024,8/28/2024,20,1546,4,2,2,2,222,Upbeats,Kochi,Bachelor,Promising,222Bachelor
+SP11556,9/1/2024,8/30/2024,27,2513,2,2,2,2,222,Upbeats,Varanasi,Bachelor,Promising,222Bachelor
+SP11758,9/1/2024,8/30/2024,72,6339,2,2,3,3,233,Romantic Tunes,Bengaluru,Married,Champions,233Married
+SP11960,9/1/2024,8/30/2024,18,1594,2,2,2,2,222,Romantic Tunes,Chennai,Married,Promising,222Married
+SP12162,9/1/2024,8/30/2024,40,3532,2,2,2,2,222,Upbeats,Pune,Bachelor,Promising,222Bachelor
+SP12364,9/1/2024,8/22/2024,8,569,10,1,1,1,111,Romantic Tunes,Surat,Married,Hibernating,111Married
+SP12566,9/1/2024,8/29/2024,33,3166,3,2,2,2,222,Romantic Tunes,Delhi,Bachelor,Promising,222Bachelor
+SP12768,9/1/2024,8/29/2024,31,2826,3,2,2,2,222,Melodic Bliss ,Surat,Bachelor,Promising,222Bachelor
+SP12970,9/1/2024,8/29/2024,18,1712,3,2,2,2,222,Romantic Tunes,Lucknow,Married,Promising,222Married
+SP13172,9/1/2024,8/29/2024,16,1065,3,2,1,1,211,Melodic Bliss ,Kolkata,Married,New Users,211Married
+SP13374,9/1/2024,8/29/2024,12,925,3,2,1,1,211,Upbeats,Mumbai,Bachelor,New Users,211Bachelor
+SP13576,9/1/2024,8/29/2024,53,4384.75,3,2,2,2,222,Romantic Tunes,Lucknow,Married,Promising,222Married
+SP13778,9/1/2024,8/30/2024,21,1709,2,2,2,2,222,Melodic Bliss ,Bengaluru,Bachelor,Promising,222Bachelor
+SP13980,9/1/2024,8/28/2024,35,2907,4,2,2,2,222,Melodic Bliss ,Varanasi,Bachelor,Promising,222Bachelor
+SP14182,9/1/2024,8/29/2024,61,5075,3,2,3,3,233,Upbeats,Surat,Bachelor,Champions,233Bachelor
+SP14384,9/1/2024,8/30/2024,20,1593,2,2,2,2,222,Upbeats,Mumbai,Married,Promising,222Married
+SP14586,9/1/2024,8/30/2024,12,910,2,2,1,1,211,Upbeats,Ahmedabad,Married,New Users,211Married
+SP14788,9/1/2024,8/30/2024,24,1870,2,2,2,2,222,Romantic Tunes,Surat,Married,Promising,222Married
+SP14990,9/1/2024,8/30/2024,70,5864,2,2,3,3,233,Romantic Tunes,Hyderabad,Bachelor,Champions,233Bachelor
+SP15192,9/1/2024,8/30/2024,55,4902,2,2,2,3,223,Upbeats,Pune,Bachelor,Loyal Customers,223Bachelor
+SP15394,9/1/2024,8/29/2024,23,1538,3,2,2,2,222,Romantic Tunes,Kolkata,Married,Promising,222Married
+SP15596,9/1/2024,8/30/2024,28,2183,2,2,2,2,222,Romantic Tunes,Delhi,Bachelor,Promising,222Bachelor
+SP15798,9/1/2024,8/30/2024,35,3118,2,2,2,2,222,Upbeats,Lucknow,Bachelor,Promising,222Bachelor
+SP16000,9/1/2024,8/30/2024,14,1358,2,2,1,1,211,Romantic Tunes,Jaipur,Bachelor,New Users,211Bachelor
+SP16202,9/1/2024,8/30/2024,19,1530,2,2,2,2,222,Melodic Bliss ,Mumbai,Married,Promising,222Married
+SP16404,9/1/2024,8/30/2024,34,3180,2,2,2,2,222,Romantic Tunes,Mumbai,Bachelor,Promising,222Bachelor
+SP16606,9/1/2024,8/30/2024,48,4281,2,2,2,2,222,Romantic Tunes,Surat,Married,Promising,222Married
+SP16808,9/1/2024,8/30/2024,51,4252,2,2,2,2,222,Upbeats,Delhi,Bachelor,Promising,222Bachelor
+SP17010,9/1/2024,8/30/2024,44,3581,2,2,2,2,222,Melodic Bliss ,Visakhapatnam,Married,Promising,222Married
+SP17212,9/1/2024,8/30/2024,21,1732,2,2,2,2,222,Upbeats,Lucknow,Bachelor,Promising,222Bachelor
+SP17414,9/1/2024,8/27/2024,10,779,5,1,1,1,111,Upbeats,Visakhapatnam,Bachelor,Hibernating,111Bachelor
+SP17616,9/1/2024,8/29/2024,36,3275,3,2,2,2,222,Upbeats,Kolkata,Bachelor,Promising,222Bachelor
+SP17818,9/1/2024,8/28/2024,14,1615,4,2,1,2,212,Upbeats,Visakhapatnam,Bachelor,Promising,212Bachelor
+SP18020,9/1/2024,8/30/2024,27,2353,2,2,2,2,222,Melodic Bliss ,Bengaluru,Bachelor,Promising,222Bachelor
+SP18222,9/1/2024,8/30/2024,20,1526,2,2,2,2,222,Romantic Tunes,Visakhapatnam,Bachelor,Promising,222Bachelor
+SP18424,9/1/2024,8/30/2024,8,705,2,2,1,1,211,Melodic Bliss ,Coimbatore,Married,New Users,211Married
+SP18626,9/1/2024,8/30/2024,60,5242,2,2,3,3,233,Romantic Tunes,Varanasi,Married,Champions,233Married
+SP18828,9/1/2024,8/30/2024,24,2004,2,2,2,2,222,Romantic Tunes,Mumbai,Married,Promising,222Married
+SP19030,9/1/2024,8/30/2024,54,4033,2,2,2,2,222,Melodic Bliss ,Mumbai,Married,Promising,222Married
+SP19232,9/1/2024,8/29/2024,20,1301,3,2,2,1,221,Romantic Tunes,Varanasi,Married,Promising,221Married
+SP19434,9/1/2024,8/29/2024,57,5382,3,2,2,3,223,Romantic Tunes,Hyderabad,Married,Loyal Customers,223Married
+SP19636,9/1/2024,8/30/2024,33,2537,2,2,2,2,222,Romantic Tunes,Pune,Married,Promising,222Married
+SP19838,9/1/2024,8/30/2024,21,1418,2,2,2,1,221,Melodic Bliss ,Varanasi,Bachelor,Promising,221Bachelor
+SP20040,9/1/2024,8/30/2024,62,5724,2,2,3,3,233,Upbeats,Jaipur,Bachelor,Champions,233Bachelor
+SP20242,9/1/2024,8/30/2024,38,2624,2,2,2,2,222,Romantic Tunes,Mumbai,Married,Promising,222Married
+SP20444,9/1/2024,8/30/2024,37,3203,2,2,2,2,222,Romantic Tunes,Lucknow,Married,Promising,222Married
+SP20646,9/1/2024,8/27/2024,17,1480,5,1,1,2,112,Romantic Tunes,Jaipur,Married,Hibernating,112Married
+SP20848,9/1/2024,8/29/2024,38,3495,3,2,2,2,222,Melodic Bliss ,Varanasi,Bachelor,Promising,222Bachelor
+SP21050,9/1/2024,8/30/2024,61,5234,2,2,3,3,233,Upbeats,Surat,Bachelor,Champions,233Bachelor
+SP21252,9/1/2024,8/30/2024,38,3482,2,2,2,2,222,Romantic Tunes,Pune,Married,Promising,222Married
+SP21454,9/1/2024,8/30/2024,20,1539,2,2,2,2,222,Melodic Bliss ,Jaipur,Married,Promising,222Married
+SP21656,9/1/2024,8/30/2024,71,6129,2,2,3,3,233,Melodic Bliss ,Varanasi,Married,Champions,233Married
+SP21858,9/1/2024,8/30/2024,11,898,2,2,1,1,211,Romantic Tunes,Lucknow,Married,New Users,211Married
+SP22060,9/1/2024,8/30/2024,57,5406.25,2,2,2,3,223,Romantic Tunes,Bengaluru,Married,Loyal Customers,223Married
+SP22262,9/1/2024,8/30/2024,61,4337,2,2,3,2,232,Melodic Bliss ,Surat,Bachelor,Potential Loyalists,232Bachelor
+SP22464,9/1/2024,8/30/2024,19,1559,2,2,2,2,222,Romantic Tunes,Bengaluru,Married,Promising,222Married
+SP22666,9/1/2024,8/30/2024,35,2954,2,2,2,2,222,Romantic Tunes,Kolkata,Married,Promising,222Married
+SP22868,9/1/2024,8/30/2024,42,3268,2,2,2,2,222,Upbeats,Surat,Bachelor,Promising,222Bachelor
+SP23070,9/1/2024,8/30/2024,16,1367,2,2,1,1,211,Romantic Tunes,Bengaluru,Bachelor,New Users,211Bachelor
+SP23272,9/1/2024,8/30/2024,40,3193,2,2,2,2,222,Romantic Tunes,Kochi,Married,Promising,222Married
+SP23474,9/1/2024,8/30/2024,71,6534,2,2,3,3,233,Romantic Tunes,Surat,Married,Champions,233Married
+SP23676,9/1/2024,8/29/2024,52,4604,3,2,2,2,222,Melodic Bliss ,Bengaluru,Bachelor,Promising,222Bachelor
+SP23878,9/1/2024,8/29/2024,19,1503,3,2,2,2,222,Melodic Bliss ,Varanasi,Married,Promising,222Married
+SP24080,9/1/2024,8/26/2024,23,1688,6,1,2,2,122,Upbeats,Ahmedabad,Married,At Risk,122Married
+SP24282,9/1/2024,8/30/2024,57,4893,2,2,2,3,223,Melodic Bliss ,Kolkata,Married,Loyal Customers,223Married
+SP24484,9/1/2024,8/29/2024,26,2118,3,2,2,2,222,Upbeats,Surat,Bachelor,Promising,222Bachelor
+SP24686,9/1/2024,8/30/2024,64,4924,2,2,3,3,233,Romantic Tunes,Varanasi,Bachelor,Champions,233Bachelor
+SP24888,9/1/2024,8/27/2024,16,1314,5,1,1,1,111,Romantic Tunes,Mumbai,Married,Hibernating,111Married
+SP25090,9/1/2024,8/30/2024,22,2142,2,2,2,2,222,Romantic Tunes,Kochi,Married,Promising,222Married
+SP25292,9/1/2024,8/30/2024,36,3115,2,2,2,2,222,Upbeats,Chennai,Married,Promising,222Married
+SP25494,9/1/2024,8/30/2024,13,829,2,2,1,1,211,Upbeats,Kochi,Bachelor,New Users,211Bachelor
+SP25696,9/1/2024,8/28/2024,8,651,4,2,1,1,211,Romantic Tunes,Surat,Married,New Users,211Married
+SP25898,9/1/2024,8/30/2024,72,5826.75,2,2,3,3,233,Upbeats,Kolkata,Bachelor,Champions,233Bachelor
+SP26100,9/1/2024,8/29/2024,40,3826,3,2,2,2,222,Romantic Tunes,Chennai,Bachelor,Promising,222Bachelor
+SP26302,9/1/2024,8/21/2024,11,1051,11,1,1,1,111,Upbeats,Bengaluru,Married,Hibernating,111Married
+SP26504,9/1/2024,8/25/2024,17,1652,7,1,1,2,112,Romantic Tunes,Hyderabad,Married,Hibernating,112Married
+SP26706,9/1/2024,8/29/2024,34,2400,3,2,2,2,222,Melodic Bliss ,Ahmedabad,Married,Promising,222Married
+SP26908,9/1/2024,8/30/2024,61,4797,2,2,3,2,232,Upbeats,Kolkata,Bachelor,Potential Loyalists,232Bachelor
+SP27110,9/1/2024,8/29/2024,64,4908.75,3,2,3,3,233,Upbeats,Pune,Bachelor,Champions,233Bachelor
+SP27312,9/1/2024,8/28/2024,29,1963,4,2,2,2,222,Upbeats,Lucknow,Bachelor,Promising,222Bachelor
+SP27514,9/1/2024,8/30/2024,60,5220.75,2,2,3,3,233,Upbeats,Pune,Bachelor,Champions,233Bachelor
+SP27716,9/1/2024,8/29/2024,17,1708,3,2,1,2,212,Romantic Tunes,Kolkata,Bachelor,Promising,212Bachelor
+SP27918,9/1/2024,8/30/2024,34,2821,2,2,2,2,222,Romantic Tunes,Pune,Bachelor,Promising,222Bachelor
+SP28120,9/1/2024,8/30/2024,36,3244,2,2,2,2,222,Upbeats,Bengaluru,Married,Promising,222Married
+SP28322,9/1/2024,8/30/2024,65,5542.5,2,2,3,3,233,Upbeats,Hyderabad,Bachelor,Champions,233Bachelor
+SP28524,9/1/2024,8/30/2024,67,5766,2,2,3,3,233,Melodic Bliss ,Jaipur,Married,Champions,233Married
+SP28726,9/1/2024,8/29/2024,38,3115,3,2,2,2,222,Romantic Tunes,Bengaluru,Married,Promising,222Married
+SP28928,9/1/2024,8/30/2024,69,5670,2,2,3,3,233,Romantic Tunes,Delhi,Bachelor,Champions,233Bachelor
+SP29130,9/1/2024,8/29/2024,57,4919,3,2,2,3,223,Melodic Bliss ,Visakhapatnam,Bachelor,Loyal Customers,223Bachelor
+SP29332,9/1/2024,8/30/2024,53,4067,2,2,2,2,222,Romantic Tunes,Hyderabad,Bachelor,Promising,222Bachelor
+SP29534,9/1/2024,8/30/2024,51,3545,2,2,2,2,222,Upbeats,Bengaluru,Bachelor,Promising,222Bachelor
+SP29736,9/1/2024,8/29/2024,62,4890,3,2,3,3,233,Upbeats,Hyderabad,Bachelor,Champions,233Bachelor
+SP29938,9/1/2024,8/29/2024,17,1201,3,2,1,1,211,Romantic Tunes,Mumbai,Bachelor,New Users,211Bachelor
+SP30140,9/1/2024,8/30/2024,40,3550,2,2,2,2,222,Melodic Bliss ,Varanasi,Married,Promising,222Married
+SP30342,9/1/2024,8/27/2024,11,937,5,1,1,1,111,Melodic Bliss ,Kolkata,Married,Hibernating,111Married
+SP30544,9/1/2024,8/30/2024,54,4428,2,2,2,2,222,Melodic Bliss ,Surat,Bachelor,Promising,222Bachelor
+SP30746,9/1/2024,8/30/2024,19,1735,2,2,2,2,222,Romantic Tunes,Delhi,Married,Promising,222Married
+SP30948,9/1/2024,8/30/2024,55,4827,2,2,2,3,223,Romantic Tunes,Surat,Married,Loyal Customers,223Married
+SP31150,9/1/2024,8/30/2024,67,6111,2,2,3,3,233,Upbeats,Coimbatore,Bachelor,Champions,233Bachelor
+SP31352,9/1/2024,8/27/2024,18,1766,5,1,2,2,122,Upbeats,Hyderabad,Married,At Risk,122Married
+SP31554,9/1/2024,8/30/2024,53,4533,2,2,2,2,222,Upbeats,Surat,Bachelor,Promising,222Bachelor
+SP31756,9/1/2024,8/29/2024,27,1923,3,2,2,2,222,Romantic Tunes,Coimbatore,Married,Promising,222Married
+SP31958,9/1/2024,8/29/2024,35,3259,3,2,2,2,222,Romantic Tunes,Chennai,Married,Promising,222Married
+SP32160,9/1/2024,8/30/2024,37,2966,2,2,2,2,222,Romantic Tunes,Bengaluru,Married,Promising,222Married
+SP32362,9/1/2024,8/30/2024,54,4407,2,2,2,2,222,Upbeats,Kolkata,Bachelor,Promising,222Bachelor
+SP32564,9/1/2024,8/29/2024,24,2206,3,2,2,2,222,Romantic Tunes,Jaipur,Married,Promising,222Married
+SP32766,9/1/2024,8/29/2024,50,4104,3,2,2,2,222,Romantic Tunes,Bengaluru,Bachelor,Promising,222Bachelor
+SP32968,9/1/2024,8/30/2024,36,2700,2,2,2,2,222,Upbeats,Delhi,Bachelor,Promising,222Bachelor
+SP33170,9/1/2024,8/30/2024,64,5499,2,2,3,3,233,Romantic Tunes,Chennai,Married,Champions,233Married
+SP33372,9/1/2024,8/30/2024,75,5966,2,2,3,3,233,Upbeats,Pune,Bachelor,Champions,233Bachelor
+SP33574,9/1/2024,8/30/2024,60,5464,2,2,3,3,233,Upbeats,Kolkata,Bachelor,Champions,233Bachelor
+SP33776,9/1/2024,8/29/2024,67,5109,3,2,3,3,233,Upbeats,Coimbatore,Bachelor,Champions,233Bachelor
+SP33978,9/1/2024,8/29/2024,29,2115,3,2,2,2,222,Romantic Tunes,Jaipur,Married,Promising,222Married
+SP34180,9/1/2024,8/30/2024,66,5560,2,2,3,3,233,Romantic Tunes,Mumbai,Married,Champions,233Married
+SP34382,9/1/2024,8/29/2024,54,4315,3,2,2,2,222,Upbeats,Kochi,Bachelor,Promising,222Bachelor
+SP34584,9/1/2024,8/29/2024,37,2903,3,2,2,2,222,Romantic Tunes,Ahmedabad,Married,Promising,222Married
+SP34786,9/1/2024,8/30/2024,51,3735,2,2,2,2,222,Melodic Bliss ,Coimbatore,Bachelor,Promising,222Bachelor
+SP34988,9/1/2024,8/29/2024,32,2449,3,2,2,2,222,Upbeats,Kolkata,Bachelor,Promising,222Bachelor
+SP35190,9/1/2024,8/30/2024,22,2087,2,2,2,2,222,Melodic Bliss ,Mumbai,Married,Promising,222Married
+SP35392,9/1/2024,8/29/2024,10,827,3,2,1,1,211,Romantic Tunes,Mumbai,Married,New Users,211Married
+SP35594,9/1/2024,8/30/2024,25,2157,2,2,2,2,222,Upbeats,Ahmedabad,Bachelor,Promising,222Bachelor
+SP35796,9/1/2024,8/29/2024,39,3270.5,3,2,2,2,222,Upbeats,Lucknow,Bachelor,Promising,222Bachelor
+SP35998,9/1/2024,8/28/2024,21,2048,4,2,2,2,222,Romantic Tunes,Pune,Bachelor,Promising,222Bachelor
+SP36200,9/1/2024,8/30/2024,18,1705,2,2,2,2,222,Romantic Tunes,Ahmedabad,Married,Promising,222Married
+SP36402,9/1/2024,8/30/2024,74,5429,2,2,3,3,233,Upbeats,Ahmedabad,Bachelor,Champions,233Bachelor
+SP36604,9/1/2024,8/23/2024,18,1399,9,1,2,1,121,Upbeats,Jaipur,Bachelor,At Risk,121Bachelor
+SP36806,9/1/2024,8/29/2024,55,4374.5,3,2,2,2,222,Romantic Tunes,Varanasi,Married,Promising,222Married
+SP37008,9/1/2024,8/30/2024,14,819,2,2,1,1,211,Upbeats,Coimbatore,Married,New Users,211Married
+SP37210,9/1/2024,8/30/2024,65,5363,2,2,3,3,233,Upbeats,Coimbatore,Bachelor,Champions,233Bachelor
+SP37412,9/1/2024,8/26/2024,7,492,6,1,1,1,111,Upbeats,Mumbai,Married,Hibernating,111Married
+SP37614,9/1/2024,8/30/2024,51,4574.0625,2,2,2,2,222,Romantic Tunes,Visakhapatnam,Bachelor,Promising,222Bachelor
+SP37816,9/1/2024,8/30/2024,58,4994,2,2,3,3,233,Upbeats,Pune,Married,Champions,233Married
+SP38018,9/1/2024,8/30/2024,44,3676,2,2,2,2,222,Romantic Tunes,Varanasi,Married,Promising,222Married
+SP38220,9/1/2024,8/30/2024,23,2107,2,2,2,2,222,Melodic Bliss ,Delhi,Bachelor,Promising,222Bachelor
+SP38422,9/1/2024,8/29/2024,20,1617,3,2,2,2,222,Upbeats,Kochi,Bachelor,Promising,222Bachelor
+SP38624,9/1/2024,8/30/2024,52,4574,2,2,2,2,222,Upbeats,Chennai,Bachelor,Promising,222Bachelor
+SP38826,9/1/2024,8/29/2024,41,3405,3,2,2,2,222,Romantic Tunes,Visakhapatnam,Bachelor,Promising,222Bachelor
+SP39028,9/1/2024,8/24/2024,16,1494,8,1,1,2,112,Romantic Tunes,Varanasi,Married,Hibernating,112Married
+SP39230,9/1/2024,8/30/2024,37,3403,2,2,2,2,222,Romantic Tunes,Kolkata,Married,Promising,222Married
+SP39432,9/1/2024,8/30/2024,50,4009,2,2,2,2,222,Romantic Tunes,Ahmedabad,Married,Promising,222Married
+SP39634,9/1/2024,8/30/2024,61,5315,2,2,3,3,233,Romantic Tunes,Surat,Bachelor,Champions,233Bachelor
+SP39836,9/1/2024,8/30/2024,29,2713,2,2,2,2,222,Melodic Bliss ,Delhi,Bachelor,Promising,222Bachelor
+SP40038,9/1/2024,8/28/2024,6,359,4,2,1,1,211,Romantic Tunes,Delhi,Married,New Users,211Married
+SP40240,9/1/2024,8/27/2024,7,605,5,1,1,1,111,Romantic Tunes,Chennai,Married,Hibernating,111Married
+SP40442,9/1/2024,8/23/2024,6,211,9,1,1,1,111,Romantic Tunes,Delhi,Married,Hibernating,111Married
+SP40644,9/1/2024,8/30/2024,43,3348,2,2,2,2,222,Melodic Bliss ,Delhi,Bachelor,Promising,222Bachelor
+SP40846,9/1/2024,8/30/2024,21,1634,2,2,2,2,222,Melodic Bliss ,Chennai,Bachelor,Promising,222Bachelor
+SP41048,9/1/2024,8/28/2024,24,1497,4,2,2,2,222,Romantic Tunes,Chennai,Married,Promising,222Married
+SP41250,9/1/2024,8/30/2024,50,4152.5,2,2,2,2,222,Melodic Bliss ,Hyderabad,Bachelor,Promising,222Bachelor
+SP41452,9/1/2024,8/30/2024,57,3993,2,2,2,2,222,Upbeats,Lucknow,Bachelor,Promising,222Bachelor
+SP41654,9/1/2024,8/30/2024,29,2561,2,2,2,2,222,Melodic Bliss ,Kochi,Married,Promising,222Married
+SP41856,9/1/2024,8/29/2024,11,1050,3,2,1,1,211,Romantic Tunes,Visakhapatnam,Married,New Users,211Married
+SP42058,9/1/2024,8/30/2024,30,2476,2,2,2,2,222,Upbeats,Hyderabad,Bachelor,Promising,222Bachelor
+SP42260,9/1/2024,8/30/2024,51,4445,2,2,2,2,222,Romantic Tunes,Pune,Bachelor,Promising,222Bachelor
+SP42462,9/1/2024,8/20/2024,12,952,12,1,1,1,111,Upbeats,Varanasi,Bachelor,Hibernating,111Bachelor
+SP42664,9/1/2024,8/30/2024,72,6021,2,2,3,3,233,Melodic Bliss ,Jaipur,Bachelor,Champions,233Bachelor
+SP42866,9/1/2024,8/26/2024,22,1882,6,1,2,2,122,Romantic Tunes,Mumbai,Married,At Risk,122Married
+SP43068,9/1/2024,8/30/2024,42,3748,2,2,2,2,222,Romantic Tunes,Ahmedabad,Married,Promising,222Married
+SP43270,9/1/2024,8/30/2024,40,3503,2,2,2,2,222,Upbeats,Surat,Bachelor,Promising,222Bachelor
+SP43472,9/1/2024,8/30/2024,63,5008,2,2,3,3,233,Romantic Tunes,Pune,Bachelor,Champions,233Bachelor
+SP43674,9/1/2024,8/30/2024,55,4616.75,2,2,2,2,222,Melodic Bliss ,Mumbai,Bachelor,Promising,222Bachelor
+SP43876,9/1/2024,8/30/2024,27,2111,2,2,2,2,222,Romantic Tunes,Visakhapatnam,Married,Promising,222Married
+SP44078,9/1/2024,8/29/2024,32,2724,3,2,2,2,222,Romantic Tunes,Hyderabad,Married,Promising,222Married
+SP44280,9/1/2024,8/30/2024,42,3823,2,2,2,2,222,Romantic Tunes,Lucknow,Married,Promising,222Married
+SP44482,9/1/2024,8/29/2024,14,1384,3,2,1,1,211,Romantic Tunes,Lucknow,Bachelor,New Users,211Bachelor
+SP44684,9/1/2024,8/30/2024,22,2069,2,2,2,2,222,Melodic Bliss ,Varanasi,Married,Promising,222Married
+SP44886,9/1/2024,8/29/2024,66,5682,3,2,3,3,233,Upbeats,Jaipur,Married,Champions,233Married
+SP45088,9/1/2024,8/28/2024,33,2625,4,2,2,2,222,Romantic Tunes,Mumbai,Married,Promising,222Married
+SP45290,9/1/2024,8/30/2024,27,2423,2,2,2,2,222,Upbeats,Surat,Bachelor,Promising,222Bachelor
+SP45492,9/1/2024,8/29/2024,14,1250,3,2,1,1,211,Romantic Tunes,Ahmedabad,Married,New Users,211Married
+SP45694,9/1/2024,8/30/2024,48,4088,2,2,2,2,222,Romantic Tunes,Pune,Married,Promising,222Married
+SP45896,9/1/2024,8/26/2024,27,2215,6,1,2,2,122,Upbeats,Mumbai,Married,At Risk,122Married
+SP46098,9/1/2024,8/28/2024,7,476,4,2,1,1,211,Romantic Tunes,Varanasi,Married,New Users,211Married
+SP46300,9/1/2024,8/30/2024,69,5650,2,2,3,3,233,Romantic Tunes,Bengaluru,Married,Champions,233Married
+SP46502,9/1/2024,8/29/2024,53,4219,3,2,2,2,222,Upbeats,Delhi,Bachelor,Promising,222Bachelor
+SP46704,9/1/2024,8/28/2024,50,4129,4,2,2,2,222,Romantic Tunes,Coimbatore,Married,Promising,222Married
+SP46906,9/1/2024,8/30/2024,31,2592,2,2,2,2,222,Melodic Bliss ,Bengaluru,Married,Promising,222Married
+SP47108,9/1/2024,8/30/2024,37,2909,2,2,2,2,222,Upbeats,Bengaluru,Bachelor,Promising,222Bachelor
+SP47310,9/1/2024,8/30/2024,10,525,2,2,1,1,211,Upbeats,Lucknow,Bachelor,New Users,211Bachelor
+SP47512,9/1/2024,8/29/2024,20,1882,3,2,2,2,222,Romantic Tunes,Pune,Bachelor,Promising,222Bachelor
+SP47714,9/1/2024,8/30/2024,60,5075,2,2,3,3,233,Romantic Tunes,Coimbatore,Married,Champions,233Married
+SP47916,9/1/2024,8/30/2024,18,1429,2,2,2,1,221,Romantic Tunes,Surat,Married,Promising,221Married
+SP48118,9/1/2024,8/30/2024,62,4723.75,2,2,3,2,232,Romantic Tunes,Hyderabad,Married,Potential Loyalists,232Married
+SP48320,9/1/2024,8/25/2024,11,1005,7,1,1,1,111,Melodic Bliss ,Bengaluru,Married,Hibernating,111Married
+SP48522,9/1/2024,8/30/2024,69,5722.5,2,2,3,3,233,Romantic Tunes,Delhi,Married,Champions,233Married
+SP48724,9/1/2024,8/30/2024,30,2256,2,2,2,2,222,Romantic Tunes,Coimbatore,Married,Promising,222Married
+SP48926,9/1/2024,8/30/2024,72,6508,2,2,3,3,233,Melodic Bliss ,Pune,Married,Champions,233Married
+SP49128,9/1/2024,8/26/2024,17,1029,6,1,1,1,111,Romantic Tunes,Ahmedabad,Married,Hibernating,111Married
+SP49330,9/1/2024,8/30/2024,64,5313,2,2,3,3,233,Upbeats,Mumbai,Bachelor,Champions,233Bachelor
+SP49532,9/1/2024,8/30/2024,48,4873,2,2,2,3,223,Upbeats,Hyderabad,Bachelor,Loyal Customers,223Bachelor
+SP49734,9/1/2024,8/30/2024,24,1952,2,2,2,2,222,Upbeats,Visakhapatnam,Bachelor,Promising,222Bachelor
+SP49936,9/1/2024,8/30/2024,25,2165,2,2,2,2,222,Romantic Tunes,Pune,Married,Promising,222Married
+SP50138,9/1/2024,8/30/2024,23,1442,2,2,2,2,222,Romantic Tunes,Jaipur,Bachelor,Promising,222Bachelor
+SP50340,9/1/2024,8/30/2024,58,5237,2,2,3,3,233,Upbeats,Coimbatore,Bachelor,Champions,233Bachelor
+SP50542,9/1/2024,8/30/2024,37,3278,2,2,2,2,222,Romantic Tunes,Mumbai,Bachelor,Promising,222Bachelor
+SP50744,9/1/2024,8/29/2024,29,2338,3,2,2,2,222,Melodic Bliss ,Visakhapatnam,Bachelor,Promising,222Bachelor
+SP50946,9/1/2024,8/30/2024,41,3406,2,2,2,2,222,Romantic Tunes,Jaipur,Married,Promising,222Married
+SP51148,9/1/2024,8/28/2024,56,4510,4,2,2,2,222,Upbeats,Visakhapatnam,Bachelor,Promising,222Bachelor
+SP51350,9/1/2024,8/30/2024,25,1990,2,2,2,2,222,Romantic Tunes,Bengaluru,Married,Promising,222Married
+SP51552,9/1/2024,8/30/2024,51,4583,2,2,2,2,222,Romantic Tunes,Ahmedabad,Married,Promising,222Married
+SP51754,9/1/2024,8/30/2024,63,5260,2,2,3,3,233,Upbeats,Coimbatore,Bachelor,Champions,233Bachelor
+SP51956,9/1/2024,8/30/2024,65,5274.75,2,2,3,3,233,Romantic Tunes,Visakhapatnam,Married,Champions,233Married
+SP52158,9/1/2024,8/30/2024,34,2674,2,2,2,2,222,Romantic Tunes,Mumbai,Bachelor,Promising,222Bachelor
+SP52360,9/1/2024,8/27/2024,14,1262,5,1,1,1,111,Melodic Bliss ,Jaipur,Married,Hibernating,111Married
+SP52562,9/1/2024,8/30/2024,50,3774,2,2,2,2,222,Melodic Bliss ,Mumbai,Married,Promising,222Married
+SP52764,9/1/2024,8/25/2024,11,884,7,1,1,1,111,Romantic Tunes,Visakhapatnam,Bachelor,Hibernating,111Bachelor
+SP52966,9/1/2024,8/30/2024,74,6217,2,2,3,3,233,Romantic Tunes,Jaipur,Bachelor,Champions,233Bachelor
+SP53168,9/1/2024,8/30/2024,21,1739,2,2,2,2,222,Romantic Tunes,Visakhapatnam,Married,Promising,222Married
+SP53370,9/1/2024,8/30/2024,73,5540,2,2,3,3,233,Romantic Tunes,Mumbai,Bachelor,Champions,233Bachelor
+SP53572,9/1/2024,8/26/2024,26,1763,6,1,2,2,122,Romantic Tunes,Surat,Bachelor,At Risk,122Bachelor
+SP53774,9/1/2024,8/30/2024,36,3071,2,2,2,2,222,Melodic Bliss ,Kolkata,Married,Promising,222Married
+SP53976,9/1/2024,8/30/2024,14,968,2,2,1,1,211,Upbeats,Hyderabad,Bachelor,New Users,211Bachelor
+SP54178,9/1/2024,8/30/2024,28,2485,2,2,2,2,222,Romantic Tunes,Hyderabad,Bachelor,Promising,222Bachelor
+SP54380,9/1/2024,8/30/2024,41,3242,2,2,2,2,222,Romantic Tunes,Bengaluru,Married,Promising,222Married
+SP54582,9/1/2024,8/30/2024,34,3113,2,2,2,2,222,Melodic Bliss ,Mumbai,Bachelor,Promising,222Bachelor
+SP54784,9/1/2024,8/30/2024,55,4936,2,2,2,3,223,Melodic Bliss ,Kolkata,Bachelor,Loyal Customers,223Bachelor
+SP54986,9/1/2024,8/27/2024,16,1339,5,1,1,1,111,Romantic Tunes,Surat,Married,Hibernating,111Married
+SP55188,9/1/2024,8/30/2024,6,630,2,2,1,1,211,Romantic Tunes,Kochi,Married,New Users,211Married
+SP55390,9/1/2024,8/30/2024,31,2200,2,2,2,2,222,Romantic Tunes,Mumbai,Bachelor,Promising,222Bachelor
+SP55592,9/1/2024,8/30/2024,41,3652,2,2,2,2,222,Romantic Tunes,Kochi,Bachelor,Promising,222Bachelor
+SP55794,9/1/2024,8/30/2024,10,846,2,2,1,1,211,Romantic Tunes,Ahmedabad,Bachelor,New Users,211Bachelor
+SP55996,9/1/2024,8/29/2024,23,2069,3,2,2,2,222,Melodic Bliss ,Surat,Bachelor,Promising,222Bachelor
+SP56198,9/1/2024,8/30/2024,48,4188,2,2,2,2,222,Romantic Tunes,Kochi,Married,Promising,222Married
+SP56400,9/1/2024,8/30/2024,49,4506,2,2,2,2,222,Upbeats,Jaipur,Bachelor,Promising,222Bachelor
+SP56602,9/1/2024,8/30/2024,31,2788,2,2,2,2,222,Romantic Tunes,Hyderabad,Bachelor,Promising,222Bachelor
+SP56804,9/1/2024,8/30/2024,61,5245,2,2,3,3,233,Romantic Tunes,Hyderabad,Married,Champions,233Married
+SP57006,9/1/2024,8/29/2024,42,3835,3,2,2,2,222,Romantic Tunes,Visakhapatnam,Married,Promising,222Married
+SP57208,9/1/2024,8/29/2024,45,3994,3,2,2,2,222,Upbeats,Lucknow,Married,Promising,222Married
+SP57410,9/1/2024,8/14/2024,6,480,18,1,1,1,111,Romantic Tunes,Mumbai,Married,Hibernating,111Married
+SP57612,9/1/2024,8/29/2024,32,2392,3,2,2,2,222,Upbeats,Chennai,Bachelor,Promising,222Bachelor
+SP57814,9/1/2024,8/30/2024,72,5882,2,2,3,3,233,Upbeats,Bengaluru,Bachelor,Champions,233Bachelor
+SP58016,9/1/2024,8/30/2024,68,5082.75,2,2,3,3,233,Romantic Tunes,Bengaluru,Married,Champions,233Married
+SP58218,9/1/2024,8/30/2024,14,1528,2,2,1,2,212,Upbeats,Ahmedabad,Married,Promising,212Married
+SP58420,9/1/2024,8/29/2024,45,4414,3,2,2,2,222,Romantic Tunes,Coimbatore,Married,Promising,222Married
+SP58622,9/1/2024,8/29/2024,17,1228,3,2,1,1,211,Romantic Tunes,Visakhapatnam,Bachelor,New Users,211Bachelor
+SP58824,9/1/2024,8/29/2024,36,3554,3,2,2,2,222,Upbeats,Pune,Bachelor,Promising,222Bachelor
+SP59026,9/1/2024,8/30/2024,28,2405,2,2,2,2,222,Romantic Tunes,Varanasi,Married,Promising,222Married
+SP59228,9/1/2024,8/30/2024,16,1262,2,2,1,1,211,Romantic Tunes,Hyderabad,Married,New Users,211Married
+SP59430,9/1/2024,8/30/2024,27,1980,2,2,2,2,222,Upbeats,Jaipur,Married,Promising,222Married
+SP59632,9/1/2024,8/29/2024,68,5558.75,3,2,3,3,233,Romantic Tunes,Jaipur,Bachelor,Champions,233Bachelor
+SP59834,9/1/2024,8/30/2024,31,2515,2,2,2,2,222,Romantic Tunes,Mumbai,Bachelor,Promising,222Bachelor
+SP60036,9/1/2024,8/30/2024,43,3564,2,2,2,2,222,Upbeats,Pune,Married,Promising,222Married
+SP60238,9/1/2024,8/30/2024,7,452,2,2,1,1,211,Romantic Tunes,Delhi,Married,New Users,211Married
+SP60440,9/1/2024,8/30/2024,50,4947,2,2,2,3,223,Upbeats,Chennai,Bachelor,Loyal Customers,223Bachelor
+SP60642,9/1/2024,8/30/2024,58,4865,2,2,3,3,233,Melodic Bliss ,Kochi,Bachelor,Champions,233Bachelor
+SP60844,9/1/2024,8/28/2024,24,1805,4,2,2,2,222,Romantic Tunes,Chennai,Married,Promising,222Married
+SP61046,9/1/2024,8/30/2024,38,3509,2,2,2,2,222,Upbeats,Varanasi,Bachelor,Promising,222Bachelor
+SP61248,9/1/2024,8/30/2024,18,1542,2,2,2,2,222,Romantic Tunes,Delhi,Married,Promising,222Married
+SP61450,9/1/2024,8/30/2024,65,5571.5,2,2,3,3,233,Romantic Tunes,Pune,Married,Champions,233Married
+SP61652,9/1/2024,8/29/2024,23,1859,3,2,2,2,222,Melodic Bliss ,Ahmedabad,Married,Promising,222Married
