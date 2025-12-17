@@ -75,7 +75,7 @@ Messages are dynamically displayed within the dashboard, connecting insights dir
 
 - 🎶 Overview of average listening time across users
 
-- 
+![image alt](https://github.com/amlandas-in/streambox-rfm-customer-segmentation/blob/1c06e9d73e2c45f2ceaebf2c9eb748d2523a41c1/assets/Amlan_BeatBox_Dashboard.png)
 
 
 ---
