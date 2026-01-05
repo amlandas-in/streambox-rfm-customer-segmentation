@@ -82,7 +82,7 @@ Messages are dynamically displayed within the dashboard, connecting insights dir
 ![image alt](https://github.com/amlandas-in/streambox-rfm-customer-segmentation/blob/1c06e9d73e2c45f2ceaebf2c9eb748d2523a41c1/assets/Amlan_BeatBox_Dashboard.png)
 
 🔗 **Explore the interactive dashboard on Tableau Public:**
-![Click here to open](https://public.tableau.com/views/Amlan_BeatBoxTableau/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+https://public.tableau.com/views/Amlan_BeatBoxTableau/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
